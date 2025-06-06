@@ -1,0 +1,3 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/ZYZ-Labs/QianYuan-Engine-Docs.git
