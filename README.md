@@ -1,2 +1,16 @@
 # QianYuan-Engine
-乾元引擎，统筹所有异构设备（吐舌(ૢ˃ꌂ˂ૢ)开玩笑的）
+
+A prototype implementation for the QianYuan Engine project. This repository
+contains a minimal skeleton based on the documentation located in `docs/`.
+It provides:
+
+- A simple coordinator service built with FastAPI.
+- Placeholder modules for a protocol gateway and edge client.
+- Basic unit tests demonstrating task dispatch and status query.
+
+Run the coordinator locally:
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
